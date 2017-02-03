@@ -1,6 +1,7 @@
 net-tools
 wpasupplicant
 connman
+crda
 openssh-server
 openssh-client
 isc-dhcp-client
