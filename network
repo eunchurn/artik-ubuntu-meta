@@ -17,6 +17,7 @@ libsbc1
 dnsmasq
 iperf3
 mosquitto
+libmosquitto1
 bluez
 bluez-obexd
 bluez-hcidump
