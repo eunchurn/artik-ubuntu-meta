@@ -3,6 +3,7 @@ systemd
 tar
 cpio
 openssl
+ca-certificates
 python
 gzip
 elfutils
