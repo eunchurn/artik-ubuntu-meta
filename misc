@@ -7,4 +7,5 @@ artik-plugin-usb-common
 artik-plugin-wifi-common
 zigbeed
 libzigbee
+libsee-linux
 libartik-security
