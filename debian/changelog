@@ -1,3 +1,9 @@
+artik-ubuntu-meta (1.0.1) artik; urgency=medium
+
+  * misc: remove libsee-linux
+
+ -- jae-young <jae-young@MyLinux>  Tue, 12 Jun 2018 15:26:51 +0900
+
 artik-ubuntu-meta (1.0.0-1) unstable; urgency=medium
 
   * Initial release. (Closes: #XXXXXX)
